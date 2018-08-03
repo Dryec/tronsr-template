@@ -14,6 +14,6 @@ __About:__ - see founder description -
 __Name:__ Pascal Ehis Akhidue  
 __About:__ Pascal is an experienced developer who started to be interested in software development at a young age and is fluent in several programming languages. He is in the process of an apprenticeship as an IT specialist and will deal with the dApp development for the Tron network.
 
-## Designer
+## Join us
 
-We are searching for designers, if you're interested, please contact tron-society@outlook.com
+We are searching for designers, video creators, social media specialists, and other talented peoples, if you're interested, please contact tron-society@outlook.com
