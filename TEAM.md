@@ -16,4 +16,4 @@ __About:__ Pascal is an experienced developer who started to be interested in so
 
 ## Join us
 
-We are searching for designers, video creators, social media specialists, and other talented peoples, if you're interested, please contact tron-society@outlook.com
+We are searching for __designers, video creators, social media specialists, and other talented peoples__, if you're interested, please contact tron-society@outlook.com
