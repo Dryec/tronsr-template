@@ -7,6 +7,7 @@ Tron Society is initially financed by the Tron Loan, which comes from the Tron F
 To be constantly updated you are welcome to check out our website and social media   
   + Website: https://tron-society.com/  
   + Twitter: https://twitter.com/TronSociety  
+  + Facebook: https://www.facebook.com/Tron-Society-285295845569002
   + Telegram Community [EN]: https://t.me/TronSocietyEN  
   + Telegram Community [GER]: https://t.me/TronSocietyGER  
   + Telegram News: https://t.me/TronSociety
