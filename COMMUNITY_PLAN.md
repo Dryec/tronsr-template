@@ -6,4 +6,6 @@ Since you support us, we would like to give something back to you - 90% of all r
 
 __The Reward System is officially running since 08.08.2018 and distributes the rewards at 18:00 UTC__
 
+__From Monday (13.08.2018) - Thursday (16.08.2018) we will increase our rewards from 90% to 200%__
+
 Let’s create a constantly bigger and better Tron Community - __a Tron Society__.
