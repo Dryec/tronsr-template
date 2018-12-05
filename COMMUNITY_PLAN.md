@@ -4,10 +4,14 @@ Transparency is very important to us, which is why we want to keep you constantl
 
 Since you support us, we would like to give something back to you - 100% of all rewards will return to you every day (for more details see our budget expenses)
 
+We have also created a token called "TronSociety (TSY)". It serves, beside the votes, as support for our goals and plans. Each of our voters receives daily TSY in addition to the previous TRX Rewards. The amount is calculated from one third of the TRX Rewards. From January it can then be exchanged for 1 TRX. 
+
 __The Reward System is officially running since 08.08.2018 and distributes the rewards at 18:00 UTC__
 
 __From Monday (13.08.2018) - Thursday (16.08.2018) we will increase our rewards from 90% to 200%__
 
 __From Saturday (27.10.2018) - 31.12.2018 we will increase our rewards from 90% to 100%__
+
+__From Friday (23.11.2018) on our Token (TSY) will be distributed daily in addition to the TRX Rewards__
 
 Let’s create a constantly bigger and better Tron Community - __a Tron Society__.
