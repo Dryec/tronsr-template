@@ -8,6 +8,7 @@ DApp development is also important to us and has a high priority. We have alread
 ## Our Token
 We have also created a token called "TronSociety (TSY)". It serves, beside the votes, as a support for our goals and plans. Each of our voters receives daily TSY in addition to the previous TRX Rewards. The amount is calculated from one third of the TRX Rewards. __From January it can then be exchanged for 1 TRX__.
 
+## Rewards
 Since you support us, we would like to give something back to you - 100% of all rewards will return to you every day (for more details see our budget expenses)
 
 __The Reward System is officially running since 08.08.2018 and distributes the rewards at 18:00 UTC__
